@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-这里是 [@j1g5awi](https://github.com/j1g5awi) 用于存放 NoneBot2(https://github.com/nonebot/nonebot2) 插件的组织。
+这里是 [@j1g5awi](https://github.com/j1g5awi) 用于存放 [NoneBot2](https://github.com/nonebot/nonebot2) 插件的组织。
 
 ### 插件模版
 
